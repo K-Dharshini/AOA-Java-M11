@@ -13,7 +13,7 @@ To write a Java program that takes an integer input N from the user and prints a
 
 ## Program:
 ```
-Program to implement print all numbers
+Program to print all numbers
 
 Developed by: DHARSHINI K
 Register Number: 212223230047
